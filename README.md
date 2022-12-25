@@ -29,6 +29,7 @@ is not correct expression. Use
 ```
 15 - 34 
 ```
+The program has an interactive menu that will help you when using it.
 ## Footnotes
 There are a few things I would like to mention here:
 
